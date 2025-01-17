@@ -5,3 +5,6 @@ Questo repository è stato creato per esercitarsi con Git e GitHub in un contest
 
 ## Giulia La Rosa
 Voglio imparare GitHub per migliorare le mie competenze di gestione del codice e collaborazione.
+
+### Mariachiara Pupo
+Sto imparando Git e GitHub per migliorare le mie competenze di sviluppo collaborativo.
