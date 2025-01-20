@@ -11,3 +11,6 @@ Sto imparando Git e GitHub per migliorare le mie competenze di sviluppo collabor
 
 ### Elisa Piccolo
 Sto imparando ad usare GitHub per migliorare le mie competenze di lavoro di gruppo.
+
+### Chiara Picciau
+§ Sto imparando Git e GitHub per migliorare le mie competenze di sviluppo collaborativo.
