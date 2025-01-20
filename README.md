@@ -14,3 +14,6 @@ Sto imparando ad usare GitHub per migliorare le mie competenze di lavoro di grup
 
 ### Chiara Picciau
 Sto imparando Git e GitHub per migliorare le mie competenze di sviluppo collaborativo.
+
+### Morena Mescia
+Buongiorno Team
